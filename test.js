@@ -1,6 +1,9 @@
 
 function main() {
-	console.log('hello world!');
+	const condition = true;
+	if(condition && condition){
+		console.log('hello world!');
+	}
 }
 
 main();

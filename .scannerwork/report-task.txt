@@ -1,0 +1,7 @@
+organization=devnunu-github
+projectKey=devnunu_sonar-test
+serverUrl=https://sonarcloud.io
+serverVersion=7.7.0.23020
+dashboardUrl=https://sonarcloud.io/dashboard?id=devnunu_sonar-test
+ceTaskId=AWnNcW2NtK8xldclsXK3
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWnNcW2NtK8xldclsXK3
